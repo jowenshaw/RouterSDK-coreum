@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/BurntSushi/toml v1.2.1
-	github.com/CoreumFoundation/coreum v1.0.0-rc1
+	github.com/CoreumFoundation/coreum v1.0.0
 	github.com/anyswap/CrossChain-Router/v3 v3.6.3-0.20230306063209-a1a11843724d
 	github.com/btcsuite/btcd v0.22.2
 	github.com/cosmos/cosmos-sdk v0.45.14
